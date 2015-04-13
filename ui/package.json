@@ -1,0 +1,33 @@
+{
+  "name": "campaignViewerTool",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-less": "~0.8.2",
+    "grunt-contrib-sass": "~0.5.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-csslint": "~0.1.2",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-uglify": "~0.2.2",
+    "grunt-angular-templates": "~0.4.7",
+    "grunt-html2js": "~0.1.7",
+    "grunt-ngmin": "~0.0.3",
+    "grunt-contrib-htmlmin": "~0.1.3"
+  },
+  "description": "To use the app without running a complete app server, run:",
+  "main": "Gruntfile.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": ""
+}

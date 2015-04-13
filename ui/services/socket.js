@@ -1,0 +1,3 @@
+angularApp.factory('socket', function (socketFactory) {
+  return socketFactory();
+})
